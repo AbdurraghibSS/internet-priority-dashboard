@@ -4,4 +4,4 @@ pydeck
 scikit-learn
 numpy
 pandas
-
+openpyxl
